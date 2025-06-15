@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\C#\\TrainingTask_V2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F80BE6BF-75C2-4FB7-86EB-C3E1712E62A9}|..\\ProductService\\ProductService.csproj|d:\\c#\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C57694C-3E11-4568-8EDB-7446673D0D97}|..\\ProductServiceTests\\ProductServiceTests.csproj|d:\\c#\\productservicetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,9 +46,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0C12CA7-0FEF-4806-B578-BE2765D23F78}|OrderService.csproj|d:\\c#\\trainingtask_v2\\productclients\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C12CA7-0FEF-4806-B578-BE2765D23F78}|OrderService.csproj|solutionrelative:productclients\\productclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F80BE6BF-75C2-4FB7-86EB-C3E1712E62A9}|..\\ProductService\\ProductService.csproj|d:\\c#\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0C12CA7-0FEF-4806-B578-BE2765D23F78}|OrderService.csproj|d:\\c#\\trainingtask_v2\\migrations\\20250613130936_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,24 +161,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\C#\\ProductServiceTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\ProductServiceTests\\UnitTest1.cs",
               "ToolTip": "D:\\C#\\ProductServiceTests\\UnitTest1.cs",
               "RelativeToolTip": "..\\ProductServiceTests\\UnitTest1.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAA0wI8AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAA0wHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T09:49:59.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Extension.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Extensions\\Extension.cs",
               "RelativeDocumentMoniker": "Extensions\\Extension.cs",
@@ -191,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CreateProductCommandHandler.cs",
               "DocumentMoniker": "D:\\C#\\ProductService\\Mediator\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
               "RelativeDocumentMoniker": "..\\ProductService\\Mediator\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
@@ -204,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\C#\\ProductService\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "..\\ProductService\\Controllers\\ProductController.cs",
@@ -217,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetProductByIdQueryHandler.cs",
               "DocumentMoniker": "D:\\C#\\ProductService\\Mediator\\Products\\GetProductById\\GetProductByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "..\\ProductService\\Mediator\\Products\\GetProductById\\GetProductByIdQueryHandler.cs",
@@ -226,19 +226,6 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAMwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T11:27:18.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\C#\\TrainingTask_V2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:53:39.11Z",
               "EditorCaption": ""
             },
             {
@@ -256,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProductClient.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\ProductClients\\ProductClient.cs",
               "RelativeDocumentMoniker": "ProductClients\\ProductClient.cs",
@@ -269,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\C#\\OrderServiceTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\OrderServiceTests\\UnitTest1.cs",
@@ -282,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CreateOrderCommandHandler.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Mediator\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "Mediator\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
@@ -295,7 +282,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProductService\\Program.cs",
+              "ToolTip": "D:\\C#\\ProductService\\Program.cs",
+              "RelativeToolTip": "..\\ProductService\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:59:01.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\TrainingTask_V2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:53:39.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UpdateStockByIdCommandHandler.cs",
               "DocumentMoniker": "D:\\C#\\ProductService\\Mediator\\Products\\UpdateStockById\\UpdateStockByIdCommandHandler.cs",
               "RelativeDocumentMoniker": "..\\ProductService\\Mediator\\Products\\UpdateStockById\\UpdateStockByIdCommandHandler.cs",
@@ -308,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GetOrderByIdQueryHandler.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Mediator\\Orders\\GetOrderById\\GetOrderByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Mediator\\Orders\\GetOrderById\\GetOrderByIdQueryHandler.cs",
@@ -347,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ProductDto.cs",
@@ -356,19 +369,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T11:37:27.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\ProductService\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ProductService\\Program.cs",
-              "ToolTip": "D:\\C#\\ProductService\\Program.cs",
-              "RelativeToolTip": "..\\ProductService\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:59:01.759Z",
               "EditorCaption": ""
             },
             {

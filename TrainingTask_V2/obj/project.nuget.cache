@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sSmLKyQ2BaQ=",
+  "dgSpecHash": "kus0O2p2ydw=",
   "success": true,
-  "projectFilePath": "D:\\C#\\TrainingTask_V2\\OrderService.csproj",
+  "projectFilePath": "D:\\GitHub\\C-TrainingTaskForAVBInvest\\TrainingTask_V2\\OrderService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasri\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\nasri\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
